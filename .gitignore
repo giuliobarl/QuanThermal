@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# PDFs
+*.pdf
+
+# Temp stuff
+qubo*
