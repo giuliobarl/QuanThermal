@@ -2,7 +2,7 @@
 
 This repository contains codes related to the publication "**Notes on Quantum Computing for Thermal Science**" (https://arxiv.org/abs/2503.19109). This document explores the potential of quantum computing for solving linear systems of interest in engineering. In particular, we focus on heat conduction as a paradigmatic example in thermal science.
 
-![Quantum Computing for Thermal Science](images\quantherm.png "Quantum Computing for Thermal Science")
+![Quantum Computing for Thermal Science](https://github.com/giuliobarl/QuanThermal/blob/main/images/quantherm.png "Quantum Computing for Thermal Science")
 
 March 2025 - Pietro Asinari, Nada Alghamdi, Paolo De Angelis, Giulio Barletta, Giovanni Trezza, Marina Provenzano, Matteo Maria Piredda, Matteo Fasano, Eliodoro Chiavazzo.
 
