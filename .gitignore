@@ -174,7 +174,10 @@ cython_debug/
 .pypirc
 
 # PDFs
-*.pdf
+Qiskit-*
+2025*
+2504*
 
 # Temp stuff
 qubo*
+/Qrisp/*
