@@ -56,7 +56,7 @@ Tip: You can install both conda and pip packages in the same environment, but it
 
 This folder contains Jupyter notebooks demonstrating quantum computing algorithms using Qiskit. The aim is to explore quantum computing algorithms — especially VQE — for solving problems in heat conduction and thermal science, as well as illustrate physical analogies and competitive dynamics using quantum circuits.
 
-### `VQE-example_v15.ipynb`
+### [`VQE-example_v15.ipynb`](Qiskit/VQE-example_v15.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giuliobarl/QuanThermal/blob/main/Qiskit/VQE-example_v15.ipynb)
 
 Implements the Variational Quantum Eigensolver (VQE) to approximate the solution of a linear system derived from the finite-difference discretization of the 1D heat conduction equation.
 
@@ -72,7 +72,7 @@ Libraries Used:
 - `qiskit`
 - `matplotlib`, `numpy`, `scipy`, `statistics`, `time`
 
-### `two-athletes_v01.ipynb`
+### [`two-athletes_v01.ipynb`](Qiskit/two-athletes_v01.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giuliobarl/QuanThermal/blob/main/Qiskit/two-athletes_v01.ipynb)
 
 Illustrates quantum modeling of strategic competition between two agents (athletes) as described in Appendix A of the paper.
 
@@ -89,7 +89,7 @@ Libraries Used:
 - `qiskit`
 - `numpy`
 
-### `real-data-loader_v06.ipynb`
+### [`real-data-loader_v06.ipynb`](Qiskit/real-data-loader-v06.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giuliobarl/QuanThermal/blob/main/Qiskit/real-data-loader-v06.ipynb)
 
 Implements a recursive divide-and-conquer algorithm to prepare a quantum state that encodes a real-valued probability distribution:
 
