@@ -4,7 +4,7 @@ This repository contains codes related to the publication "**Notes on Quantum Co
 
 ![Quantum Computing for Thermal Science](https://github.com/giuliobarl/QuanThermal/blob/main/images/quantherm.png "Quantum Computing for Thermal Science")
 
-March 2025 - Pietro Asinari, Nada Alghamdi, Paolo De Angelis, Giulio Barletta, Giovanni Trezza, Marina Provenzano, Matteo Maria Piredda, Matteo Fasano, Eliodoro Chiavazzo.
+March 2025 - [Pietro Asinari](https://staff.polito.it/pietro.asinari/), [Nada Alghamdi](https://www.polito.it/en/staff?p=106642), [Paolo De Angelis](https://paolodeangelis.github.io/), [Giulio Barletta](https://giuliobarl.github.io/), [Giovanni Trezza](https://www.grenoble-inp.fr/fr/personnel/giovanni-trezza), [Marina Provenzano](https://www.polito.it/en/staff?p=043095), [Matteo Maria Piredda](https://www.polito.it/en/staff?p=067867), [Matteo Fasano](https://www.polito.it/en/staff?p=026208), [Eliodoro Chiavazzo](https://www.polito.it/en/staff?p=eliodoro.chiavazzo).
 
 Original scripts written by Pietro Asinari, adapted as notebooks by Giulio Barletta.
 
